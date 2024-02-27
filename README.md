@@ -1,14 +1,3 @@
-- Typescript
-- NestJS
-- ESlint
-- Docker
-- Postgres
-- Prisma
-- bcryptjs
-- Zod
-- autenticação jwt
-
-
 # App
 
 Fórum App
